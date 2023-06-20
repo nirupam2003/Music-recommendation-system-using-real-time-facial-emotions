@@ -1,6 +1,6 @@
 ## Emotion-based Song Generation
 
-This project focuses on generating songs based on different emotions. The songs are organized using a graph data structure, where each emotion is represented as a node. The current implementation includes three emotions: happy, sad, and angry. However, you have the flexibility to manually add more emotions by creating new nodes.
+This project focuses on generating songs based on different emotions.The facial emotions are recognized using python deeplearning libraries like mediapipe and facial recognition using Open-CV.The songs are organized using a graph data structure, where each emotion is represented as a node and each node is extended into a list contain links of songs from youtube. The current implementation includes three emotions: happy, sad, and angry. However, you have the flexibility to manually add more emotions by creating new nodes.
 
 ### System Setup
 
